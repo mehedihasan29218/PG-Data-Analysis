@@ -51,14 +51,7 @@ PG-Data-Analysis/
 - Operational Cost
 - Vendor Efficiency
 - Tower Activity Status
-- Historical Runtime Trends
-
-## 📌 Future Improvements
-- Real-time monitoring integration
-- Automated alert system
-- Predictive outage analysis
-- Advanced cost forecasting
-
+- Historical Runtime Trend
 
 ## 👨‍💻 Author
 Mehedi Hasan
